@@ -16,4 +16,12 @@
         background-color: yellow;
         color: black;
       }
+    division {
+    border: 1px solid black;
+    padding: 10px;
+     }
+
+   .division input {
+   margin-bottom: 10px;
+   }
 
